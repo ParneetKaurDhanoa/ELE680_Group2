@@ -11,3 +11,6 @@ scikit-learn>=1.5,<2
 # Jupyter Notebook
 ipykernel
 jupyter
+
+# Deep learning (CUDA 11.8 build)
+torch==2.3.1+cu118
