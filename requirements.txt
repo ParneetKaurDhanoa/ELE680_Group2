@@ -1,3 +1,6 @@
+
+# ELE680 Group 2 - Long-Horizon Forecasting
+
 # Data analysis
 numpy>=1.26,<3
 pandas>=2.2,<4
@@ -13,4 +16,5 @@ ipykernel
 jupyter
 
 # Deep learning (CUDA 11.8 build)
-torch==2.3.1+cu118
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.5.1+cu118
