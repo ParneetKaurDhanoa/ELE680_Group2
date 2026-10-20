@@ -1,0 +1,2 @@
+model,input_len,pred_len,learning_rate,parameters,val_mse,val_mae,test_mse,test_mae
+DLinear,96,336,0.0001,65184,0.1286406185575905,0.28621452232330147,0.09597139873320845,0.24037403474633404

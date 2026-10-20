@@ -1,0 +1,2 @@
+Model,Experiment,Input_Length,Prediction_Length,Validation_MSE,Validation_MAE,Test_MSE,Test_MAE,Best_Epoch,Epochs_Trained,Learning_Rate,Parameters,Checkpoint
+DLinear,2,96,96,0.09649112717182175,0.2427285672161552,0.064650796962883,0.18750204677570373,18,23,0.0001,18624,saved_models/DLinear_ETTh1_lr0.0001_run2.pt

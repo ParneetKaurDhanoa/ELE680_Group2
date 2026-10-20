@@ -1,0 +1,2 @@
+Model,Input_Length,Prediction_Length,Validation_MSE,Validation_MAE,Test_MSE,Test_MAE,Best_Epoch,Epochs_Trained,Learning_Rate,Parameters,Training_Time_Seconds
+DLinear,96,96,0.09671146553176951,0.24304704755312806,0.07120573509602686,0.19736180054363842,2,7,0.001,18624,6.24
