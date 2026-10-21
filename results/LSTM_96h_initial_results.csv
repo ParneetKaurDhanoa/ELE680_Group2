@@ -1,0 +1,2 @@
+Model,Experiment,Input_Length,Prediction_Length,Hidden_Size,LSTM_Layers,Dropout,Learning_Rate,Batch_Size,Seed,Best_Epoch,Validation_MSE,Test_MSE,Test_MAE,Training_Time_Seconds,Trainable_Parameters
+LSTM,Initial,96,96,64,2,0.1,0.001,32,42,1,0.27602802598765336,0.4173049943594074,0.5936524749586926,11.543566250707954,58208

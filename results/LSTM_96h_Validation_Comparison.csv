@@ -1,0 +1,3 @@
+Model,Configuration,Horizon,Hidden_Size,Layers,Dropout,Learning_Rate,Parameters,Best_Epoch,Validation_MSE,Training_Time_Seconds
+LSTM,Initial,96,64,2,0.1,0.001,58208,1,0.27602802598765336,11.543566250707954
+LSTM,Simple,96,32,1,0.0,0.0005,8416,1,0.26093669153174764,8.812514417804778
