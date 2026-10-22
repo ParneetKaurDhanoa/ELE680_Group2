@@ -1,0 +1,16 @@
+Model,Prediction_Length,Training_Time_Seconds,Source_File
+DLinear,96,17.22,Reported notebook output (verify)
+LSTM,96,8.812514417804778,LSTM_All_Horizons_Results.csv
+Persistence,96,0.0,Non-trained baseline
+Transformer,96,25.73815608024597,Transformer_All_Horizons.csv
+Transformer + RevIN,96,25.429972887039185,Transformer_All_Horizons.csv
+DLinear,336,13.38,Reported notebook output (verify)
+LSTM,336,11.479456291068344,LSTM_All_Horizons_Results.csv
+Persistence,336,0.0,Non-trained baseline
+Transformer,336,25.59665608406067,Transformer_All_Horizons.csv
+Transformer + RevIN,336,28.315763235092163,Transformer_All_Horizons.csv
+DLinear,720,15.81,Reported notebook output (verify)
+LSTM,720,11.089588881935924,LSTM_All_Horizons_Results.csv
+Persistence,720,0.0,Non-trained baseline
+Transformer,720,25.272393703460693,Transformer_All_Horizons.csv
+Transformer + RevIN,720,23.528383016586304,Transformer_All_Horizons.csv
